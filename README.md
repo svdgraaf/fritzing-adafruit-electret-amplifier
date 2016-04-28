@@ -11,3 +11,7 @@ The part is the [Electret Microphone Amplifier](https://www.adafruit.com/product
 5. Import
 6. ...
 7. Profit!
+
+
+## Example
+![Amplifier](https://raw.githubusercontent.com/svdgraaf/fritzing-adafruit-electret-amplifier/master/adafruit-1713.png)
